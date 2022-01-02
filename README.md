@@ -1,6 +1,6 @@
 #Front-End
 
-1) Projenizi editör içerisinde açtıktan sonra proje dizini içerisinde terminal'e npm install yapmanız gerekli modulleri yüklemeniz gerekmektedir
+1) Projenizi editör içerisinde açtıktan sonra proje dizini içerisinde terminal'de "npm install" komutu ile modulleri yüklemeniz gerekmektedir
 2) Back-end projesini ayağa kaldırmadan projenizi açarsanız hata alırsınız.
 
 #Back-End
